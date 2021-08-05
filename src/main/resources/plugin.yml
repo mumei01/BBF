@@ -1,0 +1,10 @@
+name: Bbf
+version: ${project.version}
+main: mumei.bbf.Bbf
+api-version: 1.16
+
+commands:
+  bbf:
+    description: effect setting menu
+    aliases:
+      - bbf
